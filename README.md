@@ -6,4 +6,3 @@ This site will hold work that I create throughout my upper school
 years. I enjoy hands on and challenging projects.
 ## Courses
 - [EDM II](edm2.md)
-<embed src="path-to-your-file.pdf" type="application/pdf" width="100%" height="600px" />
